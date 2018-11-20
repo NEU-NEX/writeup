@@ -1,3 +1,5 @@
+# @Author    : t1an5t
+
 from pwn import *
 #context.log_level = "debug"
 
